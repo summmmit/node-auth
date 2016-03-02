@@ -1,0 +1,12 @@
+{
+  "name": "node-authentication",
+  "description": "node authentication",
+  "main": "server.js",
+  "authors": [
+    "sumit singh <singh@ghh.comclear>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/summmmit/node-auth",
+  "moduleType": [],
+  "private": true
+}
