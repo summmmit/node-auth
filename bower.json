@@ -8,5 +8,8 @@
   "license": "MIT",
   "homepage": "https://github.com/summmmit/node-auth",
   "moduleType": [],
+  "dependencis": {
+    "bootstrap": "^3.3.6"
+  },
   "private": true
 }
